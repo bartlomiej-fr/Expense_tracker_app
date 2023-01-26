@@ -25,4 +25,4 @@ Simple login screen:
 Main panel:
 ![](./src/images/panel_glowny.png)
 
-[Link to the application](https://budzetowka.netlify.app/)
+[Link to the application](https://expense-tracer-app-1.netlify.app)
