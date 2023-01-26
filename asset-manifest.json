@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/github.io/Expense_tracker_app/static/css/main.52354611.css",
-    "main.js": "/github.io/Expense_tracker_app/static/js/main.c4e0774c.js",
-    "static/js/845.baaf8e35.chunk.js": "/github.io/Expense_tracker_app/static/js/845.baaf8e35.chunk.js",
-    "static/media/background.jpg": "/github.io/Expense_tracker_app/static/media/background.5fe8b391ffa39706eeb8.jpg",
-    "static/media/moneySound.mp3": "/github.io/Expense_tracker_app/static/media/moneySound.a659f47ca95e0b27e38f.mp3",
-    "static/media/logo.png": "/github.io/Expense_tracker_app/static/media/logo.b3fa361b915c20722d70.png",
-    "static/media/trashSound.mp3": "/github.io/Expense_tracker_app/static/media/trashSound.0de4dc60ceef413fe242.mp3",
-    "index.html": "/github.io/Expense_tracker_app/index.html",
-    "main.52354611.css.map": "/github.io/Expense_tracker_app/static/css/main.52354611.css.map",
-    "main.c4e0774c.js.map": "/github.io/Expense_tracker_app/static/js/main.c4e0774c.js.map",
-    "845.baaf8e35.chunk.js.map": "/github.io/Expense_tracker_app/static/js/845.baaf8e35.chunk.js.map"
+    "main.css": "/static/css/main.52354611.css",
+    "main.js": "/static/js/main.f4078da7.js",
+    "static/js/845.baaf8e35.chunk.js": "/static/js/845.baaf8e35.chunk.js",
+    "static/media/background.jpg": "/static/media/background.5fe8b391ffa39706eeb8.jpg",
+    "static/media/moneySound.mp3": "/static/media/moneySound.a659f47ca95e0b27e38f.mp3",
+    "static/media/logo.png": "/static/media/logo.b3fa361b915c20722d70.png",
+    "static/media/trashSound.mp3": "/static/media/trashSound.0de4dc60ceef413fe242.mp3",
+    "index.html": "/index.html",
+    "main.52354611.css.map": "/static/css/main.52354611.css.map",
+    "main.f4078da7.js.map": "/static/js/main.f4078da7.js.map",
+    "845.baaf8e35.chunk.js.map": "/static/js/845.baaf8e35.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.52354611.css",
-    "static/js/main.c4e0774c.js"
+    "static/js/main.f4078da7.js"
   ]
 }
