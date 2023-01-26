@@ -1,26 +1,28 @@
-# Budżetówka - aplikacja do zarządzania budżetem
+# Expense tracker application
 
-Aplikacja przygotowana jako finałowy projekt grupowy w ramach Bootcampu [Frontend z Reactem w infoShare Academy](https://infoshareacademy.com/kurs/bootcamp-frontend/)
+Application created as a final group project within Bootcamp [Frontend with React in infoShare Academy](https://infoshareacademy.com/kurs/bootcamp-frontend/)
 
-Nad projektem pracowali:
-- [Izabela Blinkiewicz](https://github.com/izamarciniak123)
-- [Bartłomiej Frąk](https://github.com/bartlomiej-fr)
-- [Andrzej Bułeczka](https://github.com/AndrzejBuleczka)
-- [Paweł Kenar](https://github.com/Pinkfloyd123)
+The following people worked on the application:
 
-Wykorzystane technologie:
+-   [Izabela Blinkiewicz](https://github.com/izamarciniak123)
+-   [Bartłomiej Frąk](https://github.com/bartlomiej-fr)
+-   [Andrzej Bułeczka](https://github.com/AndrzejBuleczka)
+-   [Paweł Kenar](https://github.com/Pinkfloyd123)
+
+Technologies used:
 [![My Skills](https://skills.thijs.gg/icons?i=js,html,css,react,ts,git,firebase)](https://skills.thijs.gg)
-- React z React Router
-- TypeScript
-- Firebase
-- Material UI
 
-Aplikacja umożliwia dodawanie dochodzów i wydatków w ramach dostosowanych kategorii, na bieżąco informując użytkownika o aktualnym saldzie i graficznie prezentując wydatki i przychody.
+-   React z React Router
+-   TypeScript
+-   Firebase
+-   Material UI
 
-Prosty ekran logowania:
+The application allows you to add income and expenses within customized categories, keeping the user updated on the current balance and graphically presenting expenses and income.
+
+Simple login screen:
 ![](./src/images/ekran_logowania.png)
 
-Panel główny:
+Main panel:
 ![](./src/images/panel_glowny.png)
 
-[link do aplikacji](https://budzetowka.netlify.app/)
+[Link to the application](https://budzetowka.netlify.app/)
