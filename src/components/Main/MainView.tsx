@@ -91,11 +91,12 @@ export const MainView: React.FC = () => {
                     <Grid
                         container
                         spacing={1}
+                        columns={4}
                         direction="row"
                         justifyContent="center"
                         alignItems="flex-start"
                     >
-                        <Grid item xs={12} sm={8} justifyContent="center" alignItems="center">
+                        <Grid item xs={12} sm={2} justifyContent="center" alignItems="center">
                             {operation.length > 0 && <HistoryList />}
                         </Grid>
                     </Grid>
